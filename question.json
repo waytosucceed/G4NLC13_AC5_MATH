@@ -1,0 +1,92 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Ryan found two potion bottles on a dusty shelf. Which bottle is half-full?",
+    "options": ["1.png", "2.png"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Ryan saw two cups on the giant’s table. Which cup is full?",
+    "options": ["3.png", "4.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Ryan found two jars of enchanted dust. Which jar is full?",
+    "options": ["5.png", "6.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Ryan found a cup of milk. Tell whether it is half, full, or empty?<br><img width='50%' src='./images/20.png'>",
+    "options": ["Empty", "Half", "Full"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Ryan found a mug of glowing liquid juice. Tell whether it is half, full, or empty.<br><img width='50%' src='./images/21.png'>",
+    "options": ["Half", "Empty", "Full"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Ryan found a basket. Tell whether it is half, full, or empty.<br><img width='50%' src='./images/22.png'>",
+    "options": ["Full", "Half", "Empty"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "The book asked Ryan which holds less: a water can or a tea cup?",
+   "options": ["7.png", "8.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Ryan compared a cauldron and a mug. Which one holds more?",
+    "options": ["9.png", "10.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "The book asked Ryan which holds less: a tall jug or a small glass?",
+    "options": ["11.png", "12.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Ryan looked at two enchanted fish tanks. Which one holds more?",
+    "options": ["13.png", "14.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11",
+    "question": "The book showed Ryan two bags of golden dust, Bag A and Bag B. Which bag holds more?<br><img width='50%' src='./images/15.png'>",
+    "options": ["Bag A", "Bag B"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12",
+    "question": "The book showed Ryan two cartons, Carton A and Carton B. Which carton holds more?<br><img width='50%' src='./images/16.png'>",
+    "options": ["Carton A", "Carton B"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "The book showed Ryan two cookie jars, Jar A and Jar B. Which jar holds less?<br><img width='50%' src='./images/17.png'>",
+    "options": ["Jar A", "Jar B"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14",
+    "question": "The book gave Ryan two mugs. Mug A and Mug B. Mug A holds ______ than Mug B.<br><img width='50%' src='./images/18.png'>",
+    "options": ["More", "Less"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15",
+    "question": "The book gave Ryan two baskets. Basket A and Basket B. Basket A can hold ______ fruits than Basket B.<br><img width='50%' src='./images/19.png'>",
+    "options": ["More", "Less"],
+    "correct": 0
+  }
+]
