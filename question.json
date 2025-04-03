@@ -63,13 +63,13 @@
     "questionNo": "Q11",
     "question": "The book showed Ryan two bags of golden dust, Bag A and Bag B. Which bag holds more?<br><img width='50%' src='./images/15.png'>",
     "options": ["Bag A", "Bag B"],
-    "correct": 1
+    "correct": 0
   },
   {
     "questionNo": "Q12",
     "question": "The book showed Ryan two cartons, Carton A and Carton B. Which carton holds more?<br><img width='50%' src='./images/16.png'>",
     "options": ["Carton A", "Carton B"],
-    "correct": 0
+    "correct": 1
   },
   {
     "questionNo": "Q13",
